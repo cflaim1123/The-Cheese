@@ -1,4 +1,5 @@
 # The-Cheese
+# Test
 This repository documents the design and construction of a sensor that measures changes in water clarity due to wave action.
 
 The water clarity sensor uses image recognition analysis of ball markers at known distances from the camera to calculate visibility distance in a water column. The sensor takes pressure readings at 5 Hz and takes an image to be analyzed every 100 pressure samples. The goal of the sensor is to correlate water clarity and suspended sediment concentrations to wave intensity in coastal environments. Water clarity can impact benthic organisms who rely on visible water to navigate and hunt. Additionally, cloudy water attenuates light more quickly and can reduce primary production rates in coastal photosynthesizing organisms.
